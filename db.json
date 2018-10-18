@@ -1,0 +1,36 @@
+{
+  "devices": [
+    {
+      "title"  : "Shoepod",
+      "subtitle": "Unlock full-body workouts.",
+      "backgroundImgUrl": "url",
+      "deviceImgUrl": "url",
+      "url" : "www.biostrap.com"
+    },
+    {
+      "title"  : "Wristband",
+      "subtitle": "Measure your biometrics.",
+      "backgroundImgUrl": "url",
+      "deviceImgUrl": "url",
+      "url" : "www.biostrap.com"
+    }
+  ],
+  "subscriptions": [
+    {
+      "backgroundUrl": "http://assets.biostrap.com/subscriptions/SleepLab/images/Sleep-lab-detail-bg.png",
+      "cardBackgroundUrl": "http://assets.biostrap.com/subscriptions/SleepLab/images/Sleep-lab-card-bg.png",
+      "iconUrl": "http://assets.biostrap.com/subscriptions/SleepLab/images/Sleep-lab-icon.png",
+      "isSubscribed" : false,
+      "longDescription" : "The most comprehensive sleep tracking tool. Includes: Snoring, Leg movement, PDF Reports and more!",
+      "title" : "Sleep Lab"
+    },
+    {
+      "backgroundUrl": "http://assets.biostrap.com/subscriptions/EliteRunner/images/elite-running-detail-bg.png",
+      "cardBackgroundUrl": "http://assets.biostrap.com/subscriptions/EliteRunner/images/elite-runner-card-bg.png",
+      "iconUrl": "http://assets.biostrap.com/subscriptions/EliteRunner/images/running-icon.png",
+      "isSubscribed" : true,
+      "longDescription" : "For serious runners only. We completely classify your run into training types, power output and much more!",
+      "title" : "Elite Runner"
+    }
+  ]
+}

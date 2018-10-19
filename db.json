@@ -3,16 +3,18 @@
     {
       "title"  : "Shoepod",
       "subtitle": "Unlock full-body workouts.",
-      "backgroundImgUrl": "url",
-      "deviceImgUrl": "url",
-      "url" : "www.biostrap.com"
+      "backgroundImgUrl": "http://assets.biostrap.com/subscriptions/Devices/Shoepod/shoepod-bg-marketplace.png",
+      "deviceImgUrl": "http://assets.biostrap.com/subscriptions/Devices/Shoepod/biostrap-shoepod.png",
+      "url" : "www.biostrap.com",
+      "price" : 100
     },
     {
       "title"  : "Wristband",
       "subtitle": "Measure your biometrics.",
-      "backgroundImgUrl": "url",
-      "deviceImgUrl": "url",
-      "url" : "www.biostrap.com"
+      "backgroundImgUrl": "http://assets.biostrap.com/subscriptions/Devices/Wristband/wristband-bg-marketplace.png",
+      "deviceImgUrl": "http://assets.biostrap.com/subscriptions/Devices/Wristband/wristband-large-marketplace.png",
+      "url" : "www.biostrap.com",
+      "price" : 150
     }
   ],
   "subscriptions": [
